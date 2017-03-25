@@ -25,7 +25,7 @@ SECRET_KEY = '=189_2hcfo%7p^o%)ljhuqwn-11%@l)52j&41_(l3!$bm*r($+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['csbru.pythonanywhere.com']
 
 
 # Application definition
